@@ -1,0 +1,95 @@
+
+h1
+{
+	text-align : center;
+	font-size : 5em;
+	font-family:Verdana;	
+}
+
+h2
+{
+	text-align : center;
+	font-size : 3em;
+	font-family:Verdana;	
+}
+
+h5
+{
+	text-align : center;
+	font-size : 1em;
+	font-family:Verdana;		
+}
+
+audio
+{
+	margin : 0 auto;
+	display:table;	
+}
+
+.size {
+  width: 250%;
+}
+
+div#colonneCentre2 {
+  margin-left: 725px;
+  width : 100px;
+}
+
+div#colonneCentre3 {
+ 	float : left;
+	margin-left: 325px;
+	width : 100px;
+}
+
+
+body {
+	background-image: url("background-tile.png");
+}
+
+div#colonneGauche
+{
+	float : left;
+	width : 100px;
+	
+}
+
+div#colonneDroite
+{
+	float : left;
+	margin-left: 300px;
+	width : 500px;
+	height : 100px;
+}
+
+div#colonneCentre
+{
+	float:center;
+    margin-left:-10px;
+	margin-right:-8px;
+	margin-top:-55px;
+	height:220px;
+	background-color: #FF3300 ;	
+}
+
+tr{
+	font-family:Arial Black;
+}
+
+.center {
+    margin : 0 auto;
+	display:table;	
+	width:18%;
+}
+
+.centerbigger {
+    margin : 0 auto;
+	display:table;	
+	width:30%;
+}
+
+.centerinfo {
+    margin : 0 auto;
+	display:table;		
+}
+
+
