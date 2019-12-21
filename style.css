@@ -31,15 +31,11 @@ audio
 }
 
 div#colonneCentre2 {
-  margin-left: 725px;
-  width : 100px;
+  margin:auto;
+  width : 1100px;
 }
 
-div#colonneCentre3 {
- 	float : left;
-	margin-left: 325px;
-	width : 100px;
-}
+
 
 
 body {
